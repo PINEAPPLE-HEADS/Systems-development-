@@ -37,15 +37,22 @@ li a {
 
 li a:hover {
   background-color: #111;
+	
+	
+	
+	
+	
+	
+/*-----------------------------------------------------end of chapter 1----------------------------------------------------*/	
+	
 }
-
-/*-----------------------chapter 2 page 1-------------------------------------------------- --------------------------------------*/
+/*------------------------------------------------------chapter 2 page 1---------------------------------------------------*/
 
 .franklyn{ font-family: 'Raleway', sans-serif;
        font-family: 'Open Sans', sans-serif;	   
 background-color: }
 
-/*---------------------------------Div------------------------------------------------*/
+/*---------------------------------Div----------------------------------------*/
 #page1{ text-align: center; ;
  text-decoration: underline;font-size: xx-large;color: whitesmoke;font-family: "arial" 
 }
@@ -57,7 +64,7 @@ background-color: }
 
 #backgroundstart{position: relative;top: 460px;height: 1200px;background-image: url(sky-earth-galaxy-universe-2422.jpg);}
 
-/*----------------------------------paragraph-----------------------------*/
+/*----------------------------------ID-----------------------------*/
 #para1{text-align: center;font-style: italic; font-size: large;color: white}
 
 #para2{position: relative;top: 100px;color: white;text-align: center}
@@ -90,7 +97,7 @@ background-color: }
 
 #conclusion2{position: relative;top: 1630px;color: white;width: 40%;text-align: center;left: 450px;box-shadow: 0px 0px 10px 2px grey;border: 10px solid black}
 
-/*----------------------------------header-------------------------------------------------------------------------*/
+/*----------------------------------Class------------------------------*/
 #header1{position: relative;top: 90px;color: white;text-align: center;margin: 0px;padding: 50px;overflow: hidden;background-color:#333;font-family: "arial"; font-size:large; }
 
 .header2{position: relative;top: 150px;text-align: center;color: white;width:60%;margin: 0px;padding: 10px;left: 250px;font-family: "arial";text-decoration: underline; font-size:xx-large; }
@@ -128,3 +135,5 @@ background-color: }
 .vid4{height: 400px;position: relative;top: 1100px}
 .vid5{height: 400px;position: relative;top: 1350px}
 .vid6{height: 400px;position: relative;top: 1600px}
+
+/*-------------------------  --End of chapter 2 page 1---------------------------------------------------------------*/
