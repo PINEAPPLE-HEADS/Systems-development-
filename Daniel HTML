@@ -1,1 +1,137 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+
+    <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Open+SansRaleway&display=swap" rel="stylesheet">
+    <link href="STYLE.css" rel="stylesheet"> 
+        <script src="Wp.js"></script>
+        <title>.</title>
+      </head>
+    <body>
+    <header class="header16"> CHAPTER 3 </header>    
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar" >
+        <ul class="navbar-nav mx-auto">
+        <li class= "nav-item">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+         <li class= "nav-item">
+            <a class="nav-link" href="#">Chapter 1</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="chapter2.html" target="_blank">Chapter 2</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Chapter 3</a>
+          </li>    
+          <li class="nav-item">
+            <a class="nav-link" href="#">Chapter 3</a>
+          </li>    
+          <li class="nav-item">
+            <a class="nav-link" href="#">Chapter 4</a>
+          </li>    
+    </ul>
+    </div>
+    </nav>    
+    <div class="boom3">
+    <h2>Contents of this page</h2>
+        <br><li>Actions to reduce emission</li>
+            <br><li>Progress in policy development</li>
+        </div>
+
+
+    <div id="content3"> 
+     <img src="Emissions.jpg" alt="Emissions" class="Emissions">
+
+        <div class="Transporttitle3"><h3><b>Actions to reduce emissions</b></h3><br><br>
+        </div>
+
+        <div class="e1">
+        <p>Progress in deploying measures to reduce emissions is off-track across transport, buildings, agriculture and land use. In these areas, progress to date is behind virtually every indicator we track, often by a wide margin.<br> <br>    
+            Reductions in the CO2 emissions of new vehicles have fallen well short of our indicators. Lack of progress over several years has contributed significantly to surface transport now being the highest-emitting sector in the UK.<br><br>   
+
+            Deployment of energy efficiency measures in buildings are running at less than 20% of the rate under our indicators, having fallen sharply since policy changes in 2012. Deployment of non-bioenergy low-carbon heat (e.g. heat pumps) remains weak.<br><br>
+
+            Progress is falling short of all of our indicators across agriculture and land use, where policy has been lacking or ineffective in driving the necessary emissions reductions.
+            <br><br>
+
+            </p>
+        </div>
+
+
+
+        <img src="Windmill.jpg" alt="Windmill" class="Windmill">
+
+        <div class="list3">
+            <p><b>Our key indicators to meet our carbon budget which have been met.</b></p>
+
+
+
+
+        <li>Direct combustion CO2 emissions from manufacturing and refining </li>
+        <br><li>Manufacturing and refining energy intensity of output </li>
+
+
+            <br><li>Low-carbon heat </li>
+        <br><li> Total renewable generation</li>
+        <br><li> Emissions intensity</li>
+        </div>
+
+
+        <h3><b>Progress in policy development</b></h3>
+
+        <img src="Transport.jpg" alt="Transport" class="Transport">
+
+
+        <div class="Transportprogress3">
+            <h4>Transport policy progress</h4><br><br>
+            <p>Transport is now the highest-emitting sector and must be a key contributor towards the reductions in greenhouse gas emissions needed over the period to 2030. Delays in making policy progress present a significant risk to meeting the fourth and fifth carbon budgets and are also likely to lead to higher costs and worse air quality. Policy progress over the last year has been very limited. </p>
+
+
+        </div>
+
+
+        <img src="Industry.jpg" alt="Industry" class="Industry">
+
+        <div class="Industryprogress3">
+         <h4>Industry policy progress</h4><br><br>
+            <p>There has been a surge in policy activity for industrial decarbonisation in the past year, including the setting of the Government’s industrial decarbonisation clusters mission, which aims to establish the world’s first net-zero carbon industrial cluster by 2040 and at least one low-carbon cluster by 2030. Despite this activity, proposals and ambitions need to be turned into clear and concrete policies and further ambition is required.</p>
+        </div>
+
+
+
+        <img src="Electricity.jpg" alt="Electricity" class="Electricity">
+
+         <div class="Electricityprogress3">
+
+            <h4>Power policy progress</h4><br><br>
+                <p>There has been important progress on auctions and ambition for offshore wind, but there remains no route to market for onshore wind and solar, the lowest-cost forms of generation. Although the Committee have recommended since 2016 that contingency plans are made in case projects (e.g. for nuclear plants) fail to progress as intended, the Government has not set out any such plans. </p>
+
+        </div> 
+        </div>
+
+        <div class="buttonp">
+           <button onclick="myFunction()" id="myBtn">Read more</button><br><br>
+
+         <span id="dots">Read more</span><span id="more">
+        <sup>The ambition in England on recycling other waste must be strengthened to achieve 70% recycling rates by 2025, which should also cover plans to reduce food waste. A consultation next year will cover the infrastructure requirements needed to deal with the additional waste diverted from landfill. This needs to ensure that sufficient incentives are in place for private sector investment in alternative waste treatment facilities that the ambition on landfill waste reduction imply.</sup>
+        </span>
+        </div>
+        <footer class="footer1"> ©Elm Park 2019 <br>
+    <a href="mailto:ElmPark" target="_blank">Send email </a>
+    </footer>  
+    </body>
+    </html>
+
+
+
+
+
+
 
