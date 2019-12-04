@@ -1,1 +1,188 @@
+<!DOCTYPE html>
 
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	
+    
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+	<link rel="stylesheet"  href ="./css/style.css" >
+    
+	 <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    
+    <script src="wp.js"></script>
+    
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	
+
+<title> Chapter 4 </title>
+</head>
+
+<body>
+
+
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav mx-auto" >
+	<li class= "nav-item">
+        <a class="nav-link" href="index.html" target="_blank">Home</a>
+      </li>
+	 <li class= "nav-item">
+        <a class="nav-link" href="#" target="_blank">Chapter 1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#"  target="_blank">Chapter 2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" target="_blank">Chapter 3</a>
+      </li>     
+	  <li class="nav-item">
+        <a class="nav-link" href="chapter4.html" target="_blank">Chapter 4</a>
+      </li>    
+      <li class="nav-item">
+        <a class="nav-link" href="Aboutus.html" target="_blank">About us</a>
+      </li>  
+</ul>
+</div>
+</nav>
+
+<br>
+<main>
+<br>
+
+<h2>Chapter 4: UK performance in reducing over the second carbon budget period</h2>
+
+<br>
+<section>
+	<div class="ollie1">
+			<p>
+			After the end of a carbon budget the Committee is required to assess how the budget was or
+			was not met, and the actions taken to reduce greenhouse gas emissions over the budget period.
+			The second carbon budget finished in 2017 and final data are now available. This Progress
+			Report therefore assesses performance over that budget. 
+			<br>
+			Overall, our assessment is that although the second carbon budget was met, this was primarily 
+			due to accounting changes in the EU Emissions Trading System (EU ETS) and the impact of the 
+			financial crisis, and not due to policy. Had the EU ETS cap and economic conditions been in 
+			line with original expectations, the budget would have been missed by more than 2%.
+			<br>
+			This chapter sets out this assessment. It includes an analysis of key factors driving changes in
+			emissions over the second carbon budget period. It is organised in three sections:
+			</p>
+			
+			<div class>
+			
+			<span id="dots"></span> <span id="more">
+			
+			 1.	The net carbon account for the second carbon budget <br>
+            <br>
+             2.	The impact of policies on emissions reduction over the second carbon budget<br>
+			 <br>
+            3.	Assessment of non-policy factors underpinning the second carbon budget surplus<br>
+			<br>
+		
+			</span> 
+		
+  <div class="d-inline mx-auto center">
+    <button type="button" class="btn btn-outline-primary btn-lg btn-block" onclick="myFunction()" id="myBtn">Read more</button>
+      </div>
+</div>
+			
+			<img id="smoke" src="./img/smoke.jpg" alt="smoke"/>
+			<h3>The net carbon account for the second carbon budget</h3>
+			<p>
+			The net carbon account is defined as the level of UK greenhouse gas (GHG) emissions, excluding emissions from international aviation 
+			and shipping, and net of any trading of emissions allowances in the EU Emissions Trading System (EU ETS).
+			</p>
+			<br>
+			<p>
+			If a carbon budget has been met, the Climate Change Act also requires Government to seek the advice of the Committee before making a decision 
+			on whether any resulting surplus emissions should be carried forward and used to meet future carbon budgets. In February 2019 the Committee gave 
+			unequivocal advice that the surplus should not be carried forward to the third carbon budget, given that it is not due to overachievement of policy. 
+			In relation to this, the Government has sought further advice from the Committee on how to deal with the uncertainties associated with regular revisions in the 
+			emissions inventory data, which we will provide in due course.
+			</p>
+			<br>
+			<p>
+			A surplus has come from two sources: the difference between the estimated and actual EU ETS cap, and the difference between expected and actual emissions in the non-traded sector.
+			The majority (around three-quarters) of the surplus has occurred due to accounting changes in the UK’s share of the EU ETS cap, rather than as a result of lower emissions in sectors outside the EU ETS
+			</p>
+			<img id="wind" src="./img/wind.jpg" alt="wind"/>
+			<h3>The impact of policies on emissions reduction over the second carbon budget</h3>
+			<p>
+			The second carbon budget was legislated in line with the level recommended by the Committee in our first report in 2008. Our analysis identified that the budget could be met by implementing a series 
+			of policy actions.
+			</p>
+			<br>
+			<p>
+			Underpinning our recommendation on the level of the second carbon budget, we developed a scenario in 2008 setting out the actions that would be required in each sector in order to meet the second budget, 
+			given expected levels of economic growth and other socio-economic   factors. We monitor progress against these. It is not necessary for exactly this scenario to be followed, but under-performance in one area 
+			should be compensated by over-performance elsewhere in order to deliver the aggregate ambition in the budget.
+			</p>
+			<br>
+			<p>
+			Overall our policy indicators for 2017, the last year of the second carbon budget, suggest there was limited progress in most areas outside of the EU ETS:
+			</p>
+			<ul id="ollie2">
+				<li>Transport</li>
+				<li>Industry</li>
+				<li>Buildings</li>
+				<li>Power</li>
+				<li>Agriculture, land use and forestry</li>
+				<li>Waste</li>
+				<li>F-gases</li>
+			</ul>
+			<p>
+			Overall, we conclude that UK policies did not deliver ahead of schedule in the second carbon budget period. Progress was mostly confined to sectors covered by the EU ETS. In particular, policies have 
+			contributed significantly to reducing emissions in the power sector. Outside the EU ETS policies fell short of our indicators and delivered well behind schedule in the second carbon budget period.
+			</p>
+			<br>
+			<p>
+			In addition to our policy indicators, we have also looked at performance over the second carbon budget period in the development and use of clean technology in key areas needed to achieve deep 
+			decarbonisation by 2050. Domestically, UK policy has significantly reduced the cost of offshore wind but progress on carbon capture and storage (CCS) has stalled. The UK has benefitted from international 
+			progress in battery technology and in electric vehicles.
+			</p>
+			<img id="emission" src="./img/emission.jpg" alt="emission"/>
+			<h3>Assessment of non-policy factors underpinning the second carbon budget surplus</h3>
+			<p>
+			The EU ETS cap and economic conditions turned out as originally expected, the second carbon budget would have been missed by around 65 MtCO2e, showing that policies did not deliver as much as planned:
+			</p>
+			<ul>
+				<li>Around 296 MtCO2e (equivalent to three-quarters) of the outperformance over the second carbon budget period is explained by accounting changes in the EU ETS.</li>
+				<li>Other than these accounting changes, consistently lower economic growth than expected is the main factor which led emissions to meet the budget. UK GDP was 14.5% lower by 2017 than the Government expected it to be in 2008.</li>
+				<li>The impact of the recession was even more severe in the manufacturing sector, where output in 2017 was 22% lower than the level expected in 2008.</li>
+				<li>The combined impact of accounting changes in the EU ETS and lower economic growth more than offsets the surplus from the second carbon budget, by around 65 MtCO2e. This implies the budget has not been met due to policy measures but rather due to external circumstances.</li>
+			</ul>
+			<p>
+			Overall, the results of the study are consistent with the Committee’s earlier analysis. They show that, without emissions reduction from the financial crisis and from accounting changes in the EU ETS, 
+			the second carbon budget would have been missed by over 2%. These findings support our previous conclusions that the surplus should not be carried forward as it is not due to policy being ahead of schedule.
+			</p>
+			<img id="money" src="./img/money.jpg" alt="money"/>
+	</div>
+</section>
+
+</main>
+
+<footer>     
+    
+    <h3> © ElmPark 2019 </h3>
+<a href="mailto:ElmPark"> Send Mail</a> 
+
+    </footer>
+
+</body>
+</html>
