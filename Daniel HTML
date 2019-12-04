@@ -131,6 +131,112 @@
 
 
 
+-->Chapter 3 part 2 below 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Open+SansRaleway&display=swap" rel="stylesheet">
+<link href="STYLE.css" rel="stylesheet"> 
+     <script src="Wp.js"></script>
+    <title>.</title>
+  </head>
+<body>
+<header class="header16"> CHAPTER 3 </header>    
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar" >
+    <ul class="navbar-nav mx-auto">
+	<li class= "nav-item">
+        <a class="nav-link" href="#">Home</a>
+      </li>
+	 <li class= "nav-item">
+        <a class="nav-link" href="#">Chapter 1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="chapter2.html" target="_blank">Chapter 2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Chapter 3</a>
+      </li>    
+	  <li class="nav-item">
+        <a class="nav-link" href="#">Chapter 3</a>
+      </li>    
+	  <li class="nav-item">
+        <a class="nav-link" href="#">Chapter 4</a>
+      </li>    
+</ul>
+</div>
+</nav>
+<div class="boom3">
+<h2>Contents of this page</h2>
+    <br><li>The Net-Zero Challenge</li>
+    </div>
+    
+   <img src="Pollution.jpg" alt="Pollution" class="Pollution">
+    
+    <h3>What is the Net-Zero Challenge </h3>
+    
+    <p>In May 2019, the Committee recommended that the UK set a net-zero greenhouse gas emissions target for 2050. The new target is achievable with known technologies, alongside improvements in people's lives, and within the expected economic cost that Parliament accepted when it legislated the existing 2050 target for an 80% reduction from 1990.</p><br><br>
+    
+    <p>There have been encouraging developments in greenhouse gas removals, but these will need deployment support to reduce costs and make a significant contribution to reaching net-zero emissions.</p>
+    
+    
+    
+    <div class="color">
+    <h3>What is needed from the policy now in order for the Net-Zero challege to be completed</h3>
+    
+    <li>Delivery must progress with far greater urgency. </li><br>
+    <li>Challenges that have not yet been confronted must now be addressed by Government.</li><br>
+    <li>Clear leadership is needed, right across Government, with delivery in partnership with businesses and communities.</li>
+    
+     
+    
+   <img src="Time.jpg" alt="Time" class="Time">
+    
+    <div class="timeinfo3">
+    
+    <p><b>Many current plans are insufficiently ambitious; others are proceeding too slowly, even for the current 80% target:</b></p><br>
+    
+    <li>2040 is too late for the phase-out of petrol and diesel cars and vans, and current plans for delivering this are too vague.</li><br>
+    <li>The voluntary approach that has been pursued so far for agriculture is not delivering reductions in emissions.</li><br>
+    <li>Over ten years after the Climate Change Act was passed, there is still no serious plan for decarbonising UK heating systems or improving the efficiency of the housing stock, while no large-scale trials have begun for either heat pumps or hydrogen. The low-carbon skills gap has yet to be addressed.</li>
+    </div>
+    </div>
+     
+    <div class="agriculture3">
+    <p><b>Agriculture.</b> There is a strong need to implement a policy framework to translate existing proposals and ambition into firm delivery plans, with new policies that cover the range of measures across soils and livestock required to reduce emissions on-farm.</p><br>
+    
+    <p>Public engagement.<br>
+
+        <b>Healthy lifestyle choices.</b> People can take action immediately to improve their diet and increase the amount of walking and cycling they do. These changes can cut emissions and improve health. The Government must engage with people over why and how they can make these improvements, and take supporting actions (e.g. ensuring that road infrastructure encourages people to view cycling as a safe option).<br><br>
+    
+        <b>Hydrogen production.</b> In order to develop the hydrogen options, which are vital in our net-zero scenarios, significant volumes of low-carbon hydrogen must be produced at multiple industrial clusters by 2030, for use in industry and in applications that would not initially require major infrastructure changes.<br><br>
+        
+        <b>CO2 transport and storage infrastructure.</b> Plans for early deployment of CO2 transport and storage infrastructure linked to industrial clusters must be delivered with urgency - CCS is a necessity not an option for reaching net-zero GHG emissions.</p>
+    </div>
+    
+    <div class="buttonp">
+     <button onclick="myFunction()" id="myBtn">Read more</button><br><br>
+    <span id="dots"></span><span id="more">
+     <sup>It will be businesses that primarily deliver the net-zero target and provide the vast majority of the required investment. UK business groups have strongly welcomed the setting of the net-zero target and are already acting to reduce emissions. Policy should provide a clear and stable direction and a simple investable set of rules and incentives that leave room for businesses to innovate and find the most effective means of switching to low-carbon solutions.</sup>
+    </span>
+    </div>
+    <footer class="footer1"> ©Elm Park 2019 <br>
+<a href="mailto:ElmPark" target="_blank">Send email </a>
+</footer>   
+    </body>
+    
+
+    
+</html>
+
+
 
 
 
